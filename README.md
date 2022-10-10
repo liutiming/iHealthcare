@@ -1,4 +1,4 @@
-# iHealthcare
+# iHealthcare [wiki](https://github.com/liutiming/iHealthcare/wiki)
 
 We cannot look after the sick patients 🤒 when the system 🏥 is sick itself.
 
